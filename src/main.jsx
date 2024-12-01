@@ -4,8 +4,7 @@ import './index.css'
 import App from './App.jsx'*/
 // Importamos la biblioteca de React
 import React from 'react'
-// Importamos la biblioteca ReactDOM, que proporciona métodos específicos del DOM para 
-React
+// Importamos la biblioteca ReactDOM, que proporciona métodos específicos del DOM para React
 import ReactDOM from 'react-dom/client'
 // Importamos un componente llamado ProyectoGif desde otro archivo en el mismo directorio
 import { ProyectoGif } from './ProyectoGif'
