@@ -1,3 +1,9 @@
+/* 
+INTEGRANTES DEL EQUIPO
+Acosta Lira David Manuel
+Bianchi Polanco Gianna Angelica
+Mena Mexico Joan Antonio
+*/
 // Definimos un componente funcional llamado GifItem que toma title, url e id como props
 export const GifItem = ({ title, url, id }) => {
     // Devolvemos el JSX que se renderizará

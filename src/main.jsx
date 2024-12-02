@@ -1,3 +1,9 @@
+/* 
+INTEGRANTES DEL EQUIPO
+Acosta Lira David Manuel
+Bianchi Polanco Gianna Angelica
+Mena Mexico Joan Antonio
+*/
 /*import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'

@@ -1,3 +1,9 @@
+/* 
+INTEGRANTES DEL EQUIPO
+Acosta Lira David Manuel
+Bianchi Polanco Gianna Angelica
+Mena Mexico Joan Antonio
+*/
 // Importamos useEffect y useState de React
 import { useEffect, useState } from 'react';
 // Importamos la función getGifs de helpers

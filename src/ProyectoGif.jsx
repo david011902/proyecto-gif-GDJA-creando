@@ -1,3 +1,9 @@
+/* 
+INTEGRANTES DEL EQUIPO
+Acosta Lira David Manuel
+Bianchi Polanco Gianna Angelica
+Mena Mexico Joan Antonio
+*/
 import { useState } from "react";
 import { AddCategory, GifGrid } from "./components";
 export const ProyectoGif = () => {

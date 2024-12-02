@@ -1,3 +1,9 @@
+/* 
+INTEGRANTES DEL EQUIPO
+Acosta Lira David Manuel
+Bianchi Polanco Gianna Angelica
+Mena Mexico Joan Antonio
+*/
 // Importamos el componente GifItem
 import { GifItem } from './GifItem';
 // Importamos el hook personalizado useFetchGifs

@@ -1,3 +1,9 @@
+/* 
+INTEGRANTES DEL EQUIPO
+Acosta Lira David Manuel
+Bianchi Polanco Gianna Angelica
+Mena Mexico Joan Antonio
+*/
 // Definimos una función asíncrona getGifs que toma una categoría como argumento
 export const getGifs = async( category ) => {
  // Construimos la URL para la API de Giphy con la categoría y un límite de 10 imágenes

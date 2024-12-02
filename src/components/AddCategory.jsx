@@ -1,3 +1,9 @@
+/* 
+INTEGRANTES DEL EQUIPO
+Acosta Lira David Manuel
+Bianchi Polanco Gianna Angelica
+Mena Mexico Joan Antonio
+*/
 // Importamos la función useState de React
 import { useState } from 'react';
 // Definimos un componente funcional llamado AddCategory
